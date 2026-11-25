@@ -3,6 +3,21 @@
 **Version:** 0.1 — Draft
 **Status:** Work in progress
 
+## Table of Contents
+
+1. [Program Structure](#1-program-structure)
+2. [Data Types](#2-data-types)
+3. [Variables](#3-variables)
+4. [Departments and Operations](#4-departments-and-operations)
+5. [Expressions](#5-expressions)
+6. [Input and Output](#6-input-and-output)
+7. [Conditional Branching](#7-conditional-branching)
+8. [Loops](#8-loops)
+9. [Functions](#9-functions)
+10. [Exception Handling](#10-exception-handling)
+11. [Complete Example — FizzBuzz](#11-complete-example--fizzbuzz)
+12. [Architectural Rules](#12-architectural-rules)
+
 ---
 
 # 1. Program Structure
